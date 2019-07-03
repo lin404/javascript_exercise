@@ -141,7 +141,7 @@ Odd Even Jump
 
 ## 21
 
-Stack (IFLO)
+Stack (LIFO)
 
 lookup O(n) \
 pop O(1) \
@@ -150,4 +150,9 @@ peek O(1)
 
 ## 22
 
-Queues
+Queues (FIFO)
+
+lookup O(n) \
+enqueue O(1) \
+dequeue O(1) \
+peek O(1)
